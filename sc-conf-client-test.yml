@@ -1,3 +1,4 @@
 
 welcome:
-  message: welcome to test environment37
+  message1: welcome1 to test environment
+  message2: welcome2 to test environment
